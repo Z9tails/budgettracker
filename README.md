@@ -1,8 +1,3 @@
-
-
-
- 
-
 # Budge-IT tracker
 
   ## Table of Contents
@@ -40,8 +35,12 @@ AS AN avid traveler
 - THEN the deposits or expenses added while they were offline are added to their transaction history and their totals are updated## Acceptance Criteria
 
 ## Screenshots
+- ![online](https://user-images.githubusercontent.com/100103488/183311174-6a052b09-fbca-4427-ae48-2f99e61e3cbc.png)
+- ![lighthouse](https://user-images.githubusercontent.com/100103488/183311173-40b4c3e5-08b6-482d-85c2-1539b9aecd87.png)
 
 ## Deployment Link
+- [Repo](https://github.com/Z9tails/budgettracker)
+- [Heroku](https://mpwabudget.herokuapp.com/)
 
 
 ## Installation
@@ -57,7 +56,7 @@ None
 None
 
 ## Questions
-None
+- Heroku has been tested and functioning as of 8/6/2022, it seems the system keeps dropping out. 
 
 ## License 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
